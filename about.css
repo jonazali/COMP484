@@ -1,0 +1,120 @@
+html{
+   background-color: #585858;
+}
+
+ body{
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+  
+article
+{
+    padding:5px;
+    margin-top:5px;
+    color: white;
+}
+
+
+header
+{
+    padding:0px;
+    text-align:center;
+    color: white;
+}
+
+header h1 {
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+
+}
+
+nav {
+
+    text-decoration: none;  
+
+}
+
+nav ul li a {
+     
+    
+     font-family: 'Roboto',Arial,Helvetica,sans-serif; 
+     text-decoration: none;
+}
+
+
+nav ul li a:hover {
+   
+    color: #999;
+    text-decoration: none;
+ 
+}
+
+nav
+{
+    text-align:center;
+    
+
+}
+
+ul li
+{
+    display:inline;
+    padding-left:5px;
+    padding-right:5px;
+    text-align:left;
+    font-size:14px;
+    font-weight:bold;
+    color: white;
+}
+
+li a:hover 
+
+{ 
+    color: #585858; 
+}
+
+li a:link { 
+    color: white; 
+}
+
+li a:visited { 
+    color: white; 
+}
+
+
+form {
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+
+input[type=text]  {
+
+
+
+}
+
+  
+h2{
+	float: left;
+	color: #F58182;
+	margin-left: 3.5em;
+}
+article{
+	margin: auto;
+    width: 60%;
+}
+img{
+	float: left;
+	width: 32%;
+	height: 40%;
+	margin-left: 5em;
+}
+p{
+	float: left;
+	width: 45%;
+	margin-left: 5em;
+}

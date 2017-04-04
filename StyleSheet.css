@@ -1,0 +1,165 @@
+
+ html {
+
+   background-color: #585858;
+
+
+ }
+
+.cart {
+
+    text-align: right;  
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    color: #999;
+ }
+
+.cart a:link {
+
+    color: #999;
+    text-decoration: none;
+
+}
+
+.cart a:hover {
+
+    color: white;
+    text-decoration: none;
+
+}
+ 
+.cart a:visited {
+
+    color: #999;
+    text-decoration: none;
+
+}
+ 
+.cart a:active {
+
+    color: #999;
+    text-decoration: none;
+
+}
+ 
+ 
+ body {
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+
+     
+
+  }
+
+article
+{
+    padding:5px;
+    margin-top:5px;
+    color: white;
+}
+
+
+header
+{
+    padding:0px;
+    text-align:center;
+    color: white;
+}
+
+header h1 {
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+
+}
+
+
+nav {
+
+    text-decoration: none;  
+
+}
+
+nav ul li a {
+     
+    
+     font-family: 'Roboto',Arial,Helvetica,sans-serif; 
+     text-decoration: none;
+}
+
+
+nav ul li a:hover {
+   
+    color: #999;
+    text-decoration: none;
+ 
+}
+
+section
+{
+    padding:5px;
+    margin-top:5px;
+}
+
+section h3 {
+
+   font-size: 30px;
+   font-family: 'Oswald', sans-serif;
+   color: white; 
+
+}
+
+
+
+footer
+{
+    padding:5px;
+    text-align:center;
+    font-weight:bold;
+}
+
+nav
+{
+    text-align:center;
+    
+
+}
+
+ul li
+{
+    display:inline;
+    padding-left:5px;
+    padding-right:5px;
+    text-align:left;
+    font-size:14px;
+    font-weight:bold;
+    color: white;
+}
+
+li a:hover 
+
+{ 
+    color: #585858; 
+}
+
+li a:link { 
+    color: white; 
+}
+
+li a:visited { 
+    color: white; 
+}
+
+
+form {
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+
+input[type=text]  {
+
+
+
+}
