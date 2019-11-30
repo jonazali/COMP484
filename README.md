@@ -1,3 +1,4 @@
 # COMP484
-Web Engineering Project
+## My First Web Development Project
+Web Engineering Senior Project
 Utilizes HTML, CSS, and JavaScript
